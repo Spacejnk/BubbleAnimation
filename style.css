@@ -1,0 +1,49 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas1 {
+    
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        #77a1d3, #79cbca, #e684ae
+        );
+    opacity: 0.7;
+}
+
+body {
+    background-color: rgb(87, 233, 218); 
+}
+
+.div {
+    margin-top: 20px;
+}
+
+.head {
+    position: fixed;
+    font: bold;
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(234, 16, 245);
+    width: 100%;
+
+    
+
+}
+ .para {
+    position: fixed;
+    font-size: 24px;
+    font: bolder;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    color: rgb(250, 62, 5);
+    width: 100%;
+    
+}
+
+
