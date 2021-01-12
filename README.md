@@ -1,4 +1,9 @@
-> # Bubble Animation
-> Html Canvas Vanilla JavaScript
+# Bubble Animation
+* HTML Canvas 
+* Vanilla JavaScript
+* CSS
+* [GIF with Cloud Convert](https://cloudconvert.com/)
 
-![Bubble](images/bubble.png)
+![caption](images/bubbleanimate.gif)
+
+
